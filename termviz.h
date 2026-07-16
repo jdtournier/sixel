@@ -38,6 +38,9 @@
  * - macOS: wezterm, iTerm2
  * - Windows: wezterm, minTTY, Windows Terminal (Preview)
  *
+ * This also works in the VSCode terminal, if the
+ * `terminal.integrated.enableImages` setting is enabled.
+ *
  * To use in your code, place this file alongside your own code, and \#include
  * the file where necessary:
  *
